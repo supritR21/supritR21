@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 📫 How to Reach Me  
 - **LinkedIn:** https://www.linkedin.com/in/suprit-raj-04b45932b/  
-- **Email:** supritr.ug23.cs@nitp.ac.in  
+- **Email:** supritr.ug23.cs@nitp.ac.in
+- **Portfolio Website:** suprit-next-portfolio.onrender.com 
 
 ---
 
