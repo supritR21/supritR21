@@ -43,9 +43,5 @@ He/Him
 
 ---
 
-## ⚡ Fun Fact  
-I love playing chess in my free time and enjoy solving logic-based puzzles.
-
----
 
 ### Feel free to explore my repositories, and don’t hesitate to connect if you want to collaborate or discuss interesting technical ideas!
