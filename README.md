@@ -1,3 +1,5 @@
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+
 # 👋 Hi, I’m Suprit Raj  
 ### B.Tech student at NIT Patna, pursuing Computer Science and Engineering (2023–27).  
 Welcome to my GitHub profile! I’m passionate about building intelligent systems and delivering impactful software solutions.
