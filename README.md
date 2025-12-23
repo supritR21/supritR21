@@ -1,19 +1,21 @@
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/supritR21?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/supritR21?style=for-the-badge)
 
 # 👋 Hi, I’m Suprit Raj  
 ### 🎓 B.Tech CSE @ NIT Patna (2023–2027)
 
-🚀 I’m passionate about building **intelligent systems**, **scalable backend architectures**, and **production-ready software**.  
-I enjoy solving real-world problems using **AI, backend systems, and full-stack technologies**.
+I’m a **Computer Science undergraduate** passionate about building **AI-powered applications**,  
+**scalable backend systems**, and **production-ready full-stack software**.
+
+I enjoy working close to real-world problems — from **Generative AI & RAG pipelines**  
+to **secure backend APIs and system design**.
 
 ---
 
 ## 🧠 Interests
-- 🤖 Machine Learning & Artificial Intelligence  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧱 Backend Engineering & System Design  
 - 🌐 Full-Stack Web Development  
-- 🏗️ Scalable Backend & System Design  
 - 🧩 Problem Solving & Competitive Programming  
 
 ---
@@ -25,27 +27,35 @@ I enjoy solving real-world problems using **AI, backend systems, and full-stack 
 **Frameworks & Tools**  
 `Next.js` · `React.js` · `FastAPI` · `Node.js` · `LangGraph`
 
-**Core Focus Areas**  
+**Focus Areas**  
 - Generative AI  
-- RAG Systems  
+- Retrieval-Augmented Generation (RAG)  
 - Backend Architecture  
 
 ---
 
-## 💞 Open to Collaborate On
-- 🚀 Open-source projects  
-- 🤖 AI / ML applications  
-- ☁️ Scalable full-stack & cloud-native systems  
+## 🚀 Featured Projects
+🔹 **Smart Meet** – AI-Powered Meeting Automation  
+> Full-stack platform for AI agents, scheduling & real-time video meetings  
+**Tech:** Next.js, tRPC, PostgreSQL, OpenAI, Stream Video SDK  
+🔗 https://github.com/supritR21/Smart-Meet
+
+🔹 **Vitamap** – Intelligent Pharmacy & Medicine Discovery  
+> Location-aware medical assistant with AI chatbot & RAG pipeline  
+**Tech:** Next.js, FastAPI, Pinecone, OpenAI  
+🔗 https://github.com/akasr/vitamap
+
+🔹 **BookNest** – Library Management System  
+> Secure full-stack system with role-based access & automation  
+**Tech:** Node.js, React, MongoDB, JWT  
+🔗 https://github.com/supritR21/BookNest
 
 ---
 
 ## 🧩 Competitive Programming
-- ⭐ **LeetCode Rating:** **1691**  
-- 🧠 Solved **450+ DSA problems** across:
-  - LeetCode
-  - GeeksforGeeks
-  - CodeChef
-  - Codeforces
+- ⭐ **LeetCode Max Rating:** **1694**
+- 🧠 Solved **450+ DSA problems**
+- Platforms: LeetCode · CodeChef · Codeforces · GFG
 
 ---
 
@@ -57,36 +67,31 @@ I enjoy solving real-world problems using **AI, backend systems, and full-stack 
 `FastAPI` · `Node.js` · `REST APIs`
 
 **Databases**  
-`PostgreSQL` · `MySQL`
+`PostgreSQL` · `MongoDB` · `MySQL`
 
-**AI / ML**  
-`Python` · `LangChain` · `LangGraph` · `RAG`
+**AI / Vector**  
+`OpenAI API` · `LangGraph` · `Pinecone` · `HuggingFace`
 
-**Tools & Platforms**  
-`Git` · `GitHub` · `Docker` · `Linux`
+**Tools**  
+`Git` · `GitHub` · `Docker` · `Linux` · `Postman`
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=supritR21&theme=tokyonight&cache_seconds=1800)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supritR21&theme=onedark&row=1&margin-w=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=supritR21&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 - 💼 **LinkedIn:** https://www.linkedin.com/in/suprit-raj-04b45932b/
 - 📧 **Email:** supritr.ug23.cs@nitp.ac.in
-- 🌐 **Portfolio:** https://suprit-next-portfolio.onrender.com/
+- 🌐 **Portfolio:** https://suprit-next-portfolio.onrender.com
+- 💻 **GitHub:** https://github.com/supritR21
 
 ---
 
@@ -95,4 +100,4 @@ He / Him
 
 ---
 
-⭐ *If you like my work, consider starring repositories or connecting with me — always happy to collaborate!*
+⭐ *Always open to collaboration, learning, and building impactful software.*
