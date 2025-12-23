@@ -34,7 +34,7 @@ I enjoy solving real-world problems using **AI, backend systems, and full-stack 
 
 ## 💞 Open to Collaborate On
 - 🚀 Open-source projects  
-- 🤖 AI/ML applications  
+- 🤖 AI / ML applications  
 - ☁️ Scalable full-stack & cloud-native systems  
 
 ---
@@ -68,31 +68,18 @@ I enjoy solving real-world problems using **AI, backend systems, and full-stack 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=supritR21&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=supritR21&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supritR21&theme=onedark&no-frame=true&row=1&margin-w=15"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supritR21&theme=tokyo-night"/>
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=supritR21&theme=onedark&row=1&margin-w=10)
 
 ---
 
