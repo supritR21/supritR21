@@ -69,22 +69,22 @@ I enjoy solving real-world problems using **AI, backend systems, and full-stack 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=supritR21&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=supritR21&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supritR21&theme=onedark&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=supritR21&theme=onedark&no-frame=true&row=1&margin-w=15"/>
 </p>
 
 ---
