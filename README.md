@@ -1,11 +1,13 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/supritR21?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_Repos-Active-success?style=for-the-badge)
 
 # 👋 Hi, I’m Suprit Raj  
 ### 🎓 B.Tech CSE @ NIT Patna (2023–2027)
 
-I’m a **Computer Science undergraduate** passionate about building **AI-powered applications**,  
-**scalable backend systems**, and **production-ready full-stack software**.
+I’m a **Computer Science undergraduate** passionate about building  
+**AI-powered applications**, **scalable backend systems**, and  
+**production-ready full-stack software**.
 
 ---
 
@@ -32,13 +34,25 @@ I’m a **Computer Science undergraduate** passionate about building **AI-powere
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api.svg?username=supritR21&show_icons=true&theme=tokyonight)
+## 🧩 Competitive Programming
+- ⭐ **LeetCode Max Rating:** **1694**
+- 🧠 Solved **450+ DSA problems**
+- Platforms: LeetCode · CodeChef · Codeforces · GFG
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/api.svg?user=supritR21&theme=tokyonight)
+## 🛠️ Tech Stack
+**Languages**  
+`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
+
+**Frameworks**  
+`Next.js` · `React` · `FastAPI` · `Node.js`
+
+**AI / Vector**  
+`OpenAI API` · `LangGraph` · `Pinecone`
+
+**Tools**  
+`Git` · `GitHub` · `Docker` · `Linux` · `Postman`
 
 ---
 
