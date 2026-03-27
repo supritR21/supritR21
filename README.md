@@ -1,67 +1,77 @@
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/supritR21?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public_Repos-Active-success?style=for-the-badge)
+# 👋 Hi, I'm Suprit Raj  
+### 🚀 AI Systems Engineer | Full-Stack Developer | GSoC '26 Aspirant
 
-# 👋 Hi, I’m Suprit Raj  
-### 🎓 B.Tech CSE @ NIT Patna (2023–2027)
+[![Profile Views](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&style=for-the-badge&color=blue)](https://github.com/supritR21)
+[![Followers](https://img.shields.io/github/followers/supritR21?style=for-the-badge&color=6e5494)](https://github.com/supritR21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1898-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/supritR21)
 
-I’m a **Computer Science undergraduate** passionate about building  
-**AI-powered applications**, **scalable backend systems**, and  
-**production-ready full-stack software**.
+I am a **Computer Science undergraduate at NIT Patna** (2023–2027) dedicated to engineering **scalable AI architectures** and **production-ready systems**. Currently focused on advancing the **Model Context Protocol (MCP)** ecosystem through GSoC 2026.
 
 ---
 
-## 🧠 Interests
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧱 Backend Engineering & System Design  
-- 🌐 Full-Stack Web Development  
-- 🧩 Competitive Programming  
+## 🛠️ Tech Stack & Expertise
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Python` `TypeScript` `JavaScript` `SQL` `C` |
+| **AI & Agents** | `MCP` `LangGraph` `RAG` `OpenAI API` `CrewAI` `AutoGen` |
+| **Backend** | `Next.js` `FastAPI` `Node.js` `Express` `tRPC` |
+| **Data & Infra** | `PostgreSQL` `MongoDB` `Pinecone` `Docker` `Kafka` `Kubernetes` |
+| **Cloud & DevOps** | `GCP` `OCI` `AWS S3` `Vercel` `Prometheus` `Grafana` |
 
 ---
 
-## 🚀 Featured Projects
-🔹 **Smart Meet** – AI-Powered Meeting Automation  
-**Tech:** Next.js, tRPC, PostgreSQL, OpenAI  
-🔗 https://github.com/supritR21/Smart-Meet
+## 🌟 GSoC 2026 Focus
+I am actively contributing to the **Model Context Protocol (MCP)** ecosystem. My primary proposals focus on:
+- **APIDash:** Strengthening the MCP Developer ecosystem with advanced testing capabilities.
+- **CDLI:** Bridging ancient history with modern AI via a dedicated CDLI MCP Server.
 
-🔹 **Vitamap** – Intelligent Pharmacy Discovery  
-**Tech:** Next.js, FastAPI, Pinecone, OpenAI  
-🔗 https://github.com/akasr/vitamap
+---
 
-🔹 **BookNest** – Library Management System  
-**Tech:** Node.js, React, MongoDB  
-🔗 https://github.com/supritR21/BookNest
+## 🚀 Featured Repositories
+
+### [🤖 Smart Meet](https://github.com/supritR21/Smart-Meet)
+**AI-Powered Meeting Automation Platform**  
+*Next.js • PostgreSQL • OpenAI • LangGraph • MCP*
+- Real-time transcription and automated summaries using RAG.
+- **MCP Integration:** Modular tool connections for external service automation.
+- Multi-agent workflows for CRM and follow-up automation.
+
+### [💊 Vitamap](https://github.com/akasr/vitamap)
+**Intelligent Pharmacy & Medicine Discovery**  
+*Next.js • FastAPI • Pinecone • Leaflet.js*
+- Location-based pharmacy discovery with real-time inventory management.
+- RAG-powered medical chatbot for personalized health queries.
+
+### [📚 BookNest](https://github.com/supritR21/BookNest)
+**Scalable Library Management System**  
+*Node.js • React • MongoDB • JWT*
+- Full-stack system with role-based access control and automated reminders.
+- Secure API architecture with Cloudinary integration for media assets.
+
+### [🛡️ Supplier Risk Detector](https://github.com/supritR21/Supplier-Risk-Detector2)
+**AI-Driven Supply Chain Analysis**  
+*Python • ML*
+- Predictive modeling for identifying high-risk suppliers in global supply chains.
 
 ---
 
 ## 🧩 Competitive Programming
-- ⭐ **LeetCode Max Rating:** **1694**
-- 🧠 Solved **450+ DSA problems**
-- Platforms: LeetCode · CodeChef · Codeforces · GFG
-
----
-
-## 🛠️ Tech Stack
-**Languages**  
-`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
-
-**Frameworks**  
-`Next.js` · `React` · `FastAPI` · `Node.js`
-
-**AI / Vector**  
-`OpenAI API` · `LangGraph` · `Pinecone`
-
-**Tools**  
-`Git` · `GitHub` · `Docker` · `Linux` · `Postman`
+- 🏆 **LeetCode Max Rating:** **1898** (Top 5% globally)
+- 🧠 **500+ Problems Solved** across LeetCode, CodeChef, and Codeforces.
+- 🥇 **NPTEL Certified:** Ethical Hacking & Python (Silver + Elite).
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/suprit-raj-04b45932b/
-- 📧 Email: supritr.ug23.cs@nitp.ac.in
-- 🌐 Portfolio: https://suprit-next-portfolio.onrender.com
-- 💻 GitHub: https://github.com/supritR21
+<p align="left">
+<a href="https://www.linkedin.com/in/suprit-raj-04b45932b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suprit Raj" height="30" width="40" /></a>
+<a href="mailto:supritr.ug23.cs@nitp.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="supritr.ug23.cs@nitp.ac.in" height="30" width="40" /></a>
+<a href="https://suprit-next-portfolio.onrender.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
 
 ---
-
-⭐ *Always open to collaboration and building impactful software.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight" alt="Suprit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
