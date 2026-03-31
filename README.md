@@ -3,7 +3,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=supritR21&label=PROFILE%20VIEWS&style=for-the-badge&color=blue)](https://github.com/supritR21)
 [![Followers](https://img.shields.io/github/followers/supritR21?style=for-the-badge&color=6e5494)](https://github.com/supritR21)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1898-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/supritR21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/supritR21)
 
 I am a **Computer Science undergraduate at NIT Patna** (2023–2027) passionate about engineering **scalable AI architectures** and **production-ready full-stack systems**. I enjoy bridging the gap between complex backend logic and intuitive user experiences.
 
