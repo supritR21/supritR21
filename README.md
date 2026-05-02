@@ -82,13 +82,20 @@ I am a **Computer Science undergraduate at NIT Patna** (2023–2027) passionate 
 
 ## 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/suprit-raj-04b45932b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suprit Raj" height="30" width="40" /></a>
-<a href="mailto:supritr.ug23.cs@nitp.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="supritr.ug23.cs@nitp.ac.in" height="30" width="40" /></a>
-<a href="https://suprit-next-portfolio-7cde.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/suprit-raj-04b45932b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:supritr.ug23.cs@nitp.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://suprit-next-portfolio-7cde.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 <p align="center">
+  <!-- Note: If the left card breaks occasionally, it is due to global API rate limits on the public Vercel instance. -->
   <img src="https://github-readme-stats.vercel.app/api?username=supritR21&show_icons=true&theme=tokyonight" alt="Suprit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supritR21&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
